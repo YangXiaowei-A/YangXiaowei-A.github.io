@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Xiaowei Blog</title>
-    <link>YangXiaowei-A.github.io/categories/</link>
+    <link>yangxiaowei-a.github.io/categories/</link>
     <description>Recent content in Categories on Xiaowei Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="YangXiaowei-A.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="yangxiaowei-a.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CPP</title>
-      <link>YangXiaowei-A.github.io/categories/cpp/</link>
+      <link>yangxiaowei-a.github.io/categories/cpp/</link>
       <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>YangXiaowei-A.github.io/categories/cpp/</guid>
+      <guid>yangxiaowei-a.github.io/categories/cpp/</guid>
       <description></description>
     </item>
     

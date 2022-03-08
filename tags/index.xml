@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Xiaowei Blog</title>
-    <link>YangXiaowei-A.github.io/tags/</link>
+    <link>yangxiaowei-a.github.io/tags/</link>
     <description>Recent content in Tags on Xiaowei Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="YangXiaowei-A.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="yangxiaowei-a.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cpp learning</title>
-      <link>YangXiaowei-A.github.io/tags/cpp-learning/</link>
+      <link>yangxiaowei-a.github.io/tags/cpp-learning/</link>
       <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>YangXiaowei-A.github.io/tags/cpp-learning/</guid>
+      <guid>yangxiaowei-a.github.io/tags/cpp-learning/</guid>
       <description></description>
     </item>
     
