@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cpp learning on Xiaowei Blog</title>
-    <link>yangxiaowei-a.github.io/tags/cpp-learning/</link>
+    <link>YangXiaowei-A.github.io/tags/cpp-learning/</link>
     <description>Recent content in cpp learning on Xiaowei Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="yangxiaowei-a.github.io/tags/cpp-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="YangXiaowei-A.github.io/tags/cpp-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一个简单的C&#43;&#43;程序</title>
-      <link>yangxiaowei-a.github.io/post/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84c&#43;&#43;%E7%A8%8B%E5%BA%8F/</link>
+      <link>YangXiaowei-A.github.io/post/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84c&#43;&#43;%E7%A8%8B%E5%BA%8F/</link>
       <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>yangxiaowei-a.github.io/post/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84c&#43;&#43;%E7%A8%8B%E5%BA%8F/</guid>
+      <guid>YangXiaowei-A.github.io/post/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84c&#43;&#43;%E7%A8%8B%E5%BA%8F/</guid>
       <description>一个简单的C++程序 int main() { return 0; } 几点解释： 每个c++程序都包含一个或多个函数，其中一个必须命名为main。 一个函数的定义包含四部分：返回类型</description>
     </item>
     

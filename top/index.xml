@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tops on Xiaowei Blog</title>
-    <link>yangxiaowei-a.github.io/top/</link>
+    <link>YangXiaowei-A.github.io/top/</link>
     <description>Recent content in Tops on Xiaowei Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="yangxiaowei-a.github.io/top/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="YangXiaowei-A.github.io/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>yangxiaowei-a.github.io/top/about/</link>
+      <link>YangXiaowei-A.github.io/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>yangxiaowei-a.github.io/top/about/</guid>
+      <guid>YangXiaowei-A.github.io/top/about/</guid>
       <description>YangXiaowei is a good man.</description>
     </item>
     
     <item>
       <title></title>
-      <link>yangxiaowei-a.github.io/top/books/</link>
+      <link>YangXiaowei-A.github.io/top/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>yangxiaowei-a.github.io/top/books/</guid>
+      <guid>YangXiaowei-A.github.io/top/books/</guid>
       <description>Machine learning学习笔记 Coursera 在线课程 Machine learning 笔记讲师: 吴恩达(Andrew Ng) 课程地址：https://www.coursera.org/lear</description>
     </item>
     
     <item>
       <title>Posts Archive</title>
-      <link>yangxiaowei-a.github.io/top/archive/</link>
+      <link>YangXiaowei-A.github.io/top/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>yangxiaowei-a.github.io/top/archive/</guid>
+      <guid>YangXiaowei-A.github.io/top/archive/</guid>
       <description></description>
     </item>
     
